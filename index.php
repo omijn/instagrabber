@@ -45,7 +45,7 @@
         
         <div class="form-group">
 		    <label for="imgurl" class="lead">Or enter username</label>
-		    <input type="text" class="form-control" id="uname" name="uname" placeholder="eg. alexstrohl">
+		    <input type="text" class="form-control" id="uname" name="uname" placeholder="eg. someuser">
 		    <input type="text" class="form-control" name="limit" placeholder="Download first 'n' images. Enter n. (optional)">
 		    <input type="submit" name="btn_all" class="btn btn-lg btn-success" value="Grab all" style="width:100%"/>
 		</div>		
