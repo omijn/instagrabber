@@ -7,3 +7,5 @@ Download or clone this repository to your web server.
 #### Features
 - Download single image from URL. 
 - Batch download all or first N images of a user.
+
+<img src="/../screenshots/ig.png?raw=true" width=350 />
